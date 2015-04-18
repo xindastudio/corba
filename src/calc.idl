@@ -1,0 +1,5 @@
+module calc {
+	interface Calc {
+		long add(in long a, in long b);
+	};
+};
